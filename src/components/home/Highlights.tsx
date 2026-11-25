@@ -13,7 +13,7 @@ export async function Highlights() {
   return (
     <section aria-label={t("label")} className="relative bg-forest-900 text-cream-50">
       <div className="container-x py-14 md:py-20">
-        <ul className="no-scrollbar -mx-4 flex snap-x snap-mandatory gap-0 overflow-x-auto px-4 md:mx-0 md:grid md:grid-cols-4 md:overflow-visible md:px-0">
+        <ul className="no-scrollbar flex snap-x snap-mandatory gap-0 overflow-x-auto md:grid md:grid-cols-4 md:overflow-visible">
           {items.map((it, i) => (
             <Reveal
               as="li"
