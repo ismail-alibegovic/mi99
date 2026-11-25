@@ -1,0 +1,1373 @@
+[
+ {
+  "slug": "natura-trajno-mlijeko-3-2",
+  "brand": "natura",
+  "category": "mlijeko",
+  "name": "Natura Trajno mlijeko",
+  "fat": "3,2",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Natura Trajno Mlijeko UHT 3,2 % m.m",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "253kJ / 60kcal",
+   "protein": "3,2 g",
+   "carbs": "4,7 g",
+   "fat": "3,2 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x390",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200",
+   "ean": "3877000214327"
+  },
+  "images": [
+   "natura-mlijeko-3-2"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-mlijeko-3-2/81"
+  ],
+  "specFiles": [
+   "file/mi99-natura-trajno-mlijeko-uht-32/23"
+  ]
+ },
+ {
+  "slug": "natura-trajno-mlijeko-3-5",
+  "brand": "natura",
+  "category": "mlijeko",
+  "name": "Natura Trajno mlijeko",
+  "fat": "3,5",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Natura Trajno Mlijeko 3,5 % m.m",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "259kJ / 62kcal",
+   "protein": "3,0 g",
+   "carbs": "4,6 g",
+   "fat": "3,5 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "200x198x360",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/788,20",
+   "palletDims": "1115x800x1200",
+   "ean": "3877000214211"
+  },
+  "images": [
+   "natura-mlijeko-3-5"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-mlijeko-3-5/99"
+  ],
+  "specFiles": [
+   "file/mlijeko-35-specs/40"
+  ]
+ },
+ {
+  "slug": "natura-trajno-mlijeko-2-8",
+  "brand": "natura",
+  "category": "mlijeko",
+  "name": "Natura Trajno mlijeko",
+  "fat": "2,8",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Mi99 Natura Trajno Mlijeko UHT 2,8% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "233kJ / 56kcal",
+   "protein": "3,0 g",
+   "carbs": "4,6 g",
+   "fat": "2,8 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x390",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200",
+   "ean": "3877000214013"
+  },
+  "images": [
+   "natura-mlijeko-2-8"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-mlijeko-2-8/82"
+  ],
+  "specFiles": [
+   "file/mi99-natura-trajno-mlijeko-uht-28/24"
+  ]
+ },
+ {
+  "slug": "natura-trajno-mlijeko-0-5",
+  "brand": "natura",
+  "category": "mlijeko",
+  "name": "Natura Trajno mlijeko",
+  "fat": "0,5",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Mi99 Natura Trajno Mlijeko  UHT 0,5% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "148kJ / 35kcal",
+   "protein": "3,0 g",
+   "carbs": "4,6 g",
+   "fat": "0,5 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x390",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200"
+  },
+  "images": [
+   "natura-mlijeko-0-5"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-mlijeko-0-5/83"
+  ],
+  "specFiles": [
+   "file/mi99-natura-trajno-mlijeko-uht-05/25"
+  ]
+ },
+ {
+  "slug": "milkland-mlijeko-3-2",
+  "brand": "milkland",
+  "category": "mlijeko",
+  "name": "Milkland mlijeko",
+  "fat": "3,2",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Milk Land Milk 3,2%m.m",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "253kJ / 60kcal",
+   "protein": "3,2 g",
+   "carbs": "4,7 g",
+   "fat": "3,2 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x390",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200",
+   "ean": "3877000214396"
+  },
+  "images": [
+   "milk-land-mlijeko-3-2"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/milk-land-mlijeko-3-2/84"
+  ],
+  "specFiles": [
+   "file/milk-land-milk-32/26"
+  ]
+ },
+ {
+  "slug": "milkland-mlijeko-2-8",
+  "brand": "milkland",
+  "category": "mlijeko",
+  "name": "Milkland mlijeko",
+  "fat": "2,8",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Milk Land Milk 2,8%m.m",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "233kJ / 56kcal",
+   "protein": "3,0 g",
+   "carbs": "4,6 g",
+   "fat": "2,8 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x60%",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200",
+   "ean": "3877000214129"
+  },
+  "images": [
+   "milk-land-mlijeko-2-8"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/milk-land-mlijeko-2-8/85"
+  ],
+  "specFiles": [
+   "file/milk-land-milk-28/27"
+  ]
+ },
+ {
+  "slug": "milkland-mlijeko-1-5",
+  "brand": "milkland",
+  "category": "mlijeko",
+  "name": "Milkland mlijeko",
+  "fat": "1,5",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Milk Land Milk 1,5%m.m",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "189 kJ / 45 kcal",
+   "protein": "3,2 g",
+   "carbs": "4,7 g",
+   "fat": "1,5 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1060",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "170x200x390",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/763,2",
+   "palletDims": "1000x800x1200",
+   "ean": "3877000214136"
+  },
+  "images": [
+   "milk-land-mlijeko-1-5"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/milk-land-mlijeko-1-5/86"
+  ],
+  "specFiles": [
+   "file/milk-land-milk-15/28"
+  ]
+ },
+ {
+  "slug": "mlijeko-cafe-3-8",
+  "brand": "migg",
+  "category": "mlijeko",
+  "name": "Mlijeko Cafe",
+  "fat": "3,8",
+  "size": "1 l",
+  "pack": "tetra",
+  "sourceTitle": "Mlijeko Cafe 3,8% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+   "Količina mlijeka sadržana u proizvodu : 1 litra"
+  ],
+  "nutrition": {
+   "energy": "270kJ / 65kcal",
+   "protein": "3,0 g",
+   "carbs": "4,6 g",
+   "fat": "3,8 g"
+  },
+  "logistics": {
+   "primary": "Neto količina : 1 litar",
+   "primaryWeight": "1030 / 1061",
+   "primaryDims": "195x60x90",
+   "secondaryUnits": "12",
+   "secondaryWeight": "12,36/12,72",
+   "secondaryDims": "200x198x360",
+   "pallet": "EUR",
+   "palletLayers": "5 / 12",
+   "palletUnits": "720x60",
+   "palletWeight": "741,6/788,20",
+   "palletDims": "1115x800x1200",
+   "ean": "3877000214662"
+  },
+  "images": [
+   "mlijeko-cafe-3-8-m-m"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/mlijeko-cafe-3-8-m-m/101"
+  ],
+  "specFiles": [
+   "file/cafe-specs/41"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-1-6-170g",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "1,6",
+  "size": "170 g",
+  "pack": "cup",
+  "sourceTitle": "Mi99 Natura Jogurt 1,6% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 170 gr"
+  ],
+  "nutrition": {
+   "energy": "194kJ / 46 kcal",
+   "fat": "1,6 g",
+   "saturates": "1,0 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP) 170g",
+   "primaryWeight": "170 / 177,1",
+   "primaryDims": "94x73x66",
+   "secondaryUnits": "20",
+   "secondaryWeight": "3,40/3,54",
+   "secondaryDims": "95x298x392",
+   "pallet": "EUR",
+   "palletLayers": "8X17",
+   "palletUnits": "136X20",
+   "palletWeight": "462,4/508,00",
+   "palletDims": "1750x800x1200",
+   "ean": "3877000214563"
+  },
+  "images": [
+   "natura-jogurt-1-6"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-1-6/91"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-16/33"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-2-8-180g",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "2,8",
+  "size": "180 g",
+  "pack": "cup",
+  "sourceTitle": "MI99 Natura Jogurt 2,8% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 180 gr"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP) 180g",
+   "primaryWeight": "180 / 187,1",
+   "primaryDims": "94x73x66",
+   "secondaryUnits": "20",
+   "secondaryWeight": "3,60/3,742",
+   "secondaryDims": "95x298x392",
+   "pallet": "EUR",
+   "palletLayers": "8X17",
+   "palletUnits": "136X20",
+   "palletWeight": "489,6/508,912",
+   "palletDims": "1750x800x1200",
+   "ean": "3877000214020"
+  },
+  "images": [
+   "natura-jogurt-2-8"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-2-8/92"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-28/34"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-0-5-1kg",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "0,5",
+  "size": "1 kg",
+  "pack": "bottle",
+  "sourceTitle": "MI99 Natura Jogurt 0,5% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 1 kg"
+  ],
+  "nutrition": {
+   "energy": "153kJ / 36kcal",
+   "fat": "0,5 g",
+   "saturates": "0,3 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1000g",
+   "primaryWeight": "1000,0 / 1030,0",
+   "primaryDims": "84x84x254,9",
+   "secondaryUnits": "6",
+   "secondaryWeight": "6/8,24",
+   "secondaryDims": "252x168x254,9",
+   "pallet": "EUR",
+   "palletLayers": "5X22",
+   "palletUnits": "110X6",
+   "palletWeight": "660/713,75",
+   "palletDims": "1200x800x1420",
+   "ean": "387000214167"
+  },
+  "images": [
+   "natura-jogurt-0-5"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-0-5/93"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-05/35"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-1-6-1kg",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "1,6",
+  "size": "1 kg",
+  "pack": "bottle",
+  "sourceTitle": "MI99 Natura Jogurt  1,6% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 1 kg"
+  ],
+  "nutrition": {
+   "energy": "194kJ / 46 kcal",
+   "fat": "1,6 g",
+   "saturates": "1,0 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1000g",
+   "primaryWeight": "1000,0 / 1030,0",
+   "primaryDims": "84x84x254,9",
+   "secondaryUnits": "6",
+   "secondaryWeight": "6/8,24",
+   "secondaryDims": "252x168x254,9",
+   "pallet": "EUR",
+   "palletLayers": "5X22",
+   "palletUnits": "110X6",
+   "palletWeight": "660/713,75",
+   "palletDims": "1200x800x1420",
+   "ean": "3877000214471"
+  },
+  "images": [
+   "natura-jogurt-1-6-1l"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-1-6-1l/94"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-1/36"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-2-8-1kg",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "2,8",
+  "size": "1 kg",
+  "pack": "bottle",
+  "sourceTitle": "MI99 Natura Jogurt  2,8 % m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 1 kg"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1000g",
+   "primaryWeight": "1000,0 / 1030,0",
+   "primaryDims": "84x84x254,9",
+   "secondaryUnits": "6",
+   "secondaryWeight": "6/8,24",
+   "secondaryDims": "252x168x254,9",
+   "pallet": "EUR",
+   "palletLayers": "5X22",
+   "palletUnits": "110X6",
+   "palletWeight": "660/713,75",
+   "palletDims": "1200x800x1420",
+   "ean": "3877000214174"
+  },
+  "images": [
+   "natura-jogurt-2-8-1l"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-2-8-1l/95"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-28/37"
+  ]
+ },
+ {
+  "slug": "natura-jogurt-2-8-1-5kg",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Jogurt",
+  "fat": "2,8",
+  "size": "1,5 kg",
+  "pack": "bottle",
+  "sourceTitle": "MI99 Natura Jogurt  2,8 % m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 1,5 kg"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1500g",
+   "primaryWeight": "1500/1545",
+   "primaryDims": "94x94x290",
+   "secondaryUnits": "6",
+   "secondaryWeight": "9/9,27",
+   "secondaryDims": "290x200x300",
+   "pallet": "384",
+   "palletLayers": "4/16",
+   "palletUnits": "64",
+   "palletWeight": "576/593,28",
+   "palletDims": "1300x800x1200",
+   "ean": "3877000214785"
+  },
+  "images": [
+   "natura-jogurt-2-8-1-5l"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-jogurt-2-8-1-5l/96"
+  ],
+  "specFiles": [
+   "file/natura-jogurt-28/39"
+  ]
+ },
+ {
+  "slug": "natura-gusti-jogurt-2-8-500g",
+  "brand": "natura",
+  "category": "jogurti",
+  "name": "Natura Gusti jogurt",
+  "fat": "2,8",
+  "size": "0,5 kg",
+  "pack": "bottle",
+  "sourceTitle": "Natura Gusti Jogurt 2,8 % m.m. 0,5 kg",
+  "bullets": [],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 500g",
+   "primaryWeight": "500/534",
+   "primaryDims": "65X65X2910",
+   "secondaryUnits": "8",
+   "secondaryWeight": "4/4,29",
+   "secondaryDims": "210X130X260",
+   "pallet": "1296",
+   "palletLayers": "6/27",
+   "palletUnits": "162",
+   "palletWeight": "648/709,23",
+   "palletDims": "2100X800X1200"
+  },
+  "images": [
+   "natura-gusti-jogurt-2-8-m-m-0-5-kg"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-gusti-jogurt-2-8-m-m-0-5-kg/221"
+  ],
+  "specFiles": [
+   "file/natura-gusti-jogurt-2-8-m-m-0-5-kg/139"
+  ]
+ },
+ {
+  "slug": "milkland-jogurt-2-8-1kg",
+  "brand": "milkland",
+  "category": "jogurti",
+  "name": "Milkland Jogurt",
+  "fat": "2,8",
+  "size": "1 kg",
+  "pack": "bottle",
+  "sourceTitle": "MILKLAND Jogurt 2,8%mm 1kg",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta",
+   "Količina jogurta sadržana u proizvodu : 1 kg"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1000g",
+   "primaryWeight": "1000,0 / 1030,0",
+   "primaryDims": "84x84x254,9",
+   "secondaryUnits": "6",
+   "secondaryWeight": "6/6,22",
+   "secondaryDims": "252x168x254,9",
+   "pallet": "EUR",
+   "palletLayers": "5X22",
+   "palletUnits": "660X110",
+   "palletWeight": "660/709,28",
+   "palletDims": "1200x800x1420",
+   "ean": "3877000214488"
+  },
+  "images": [
+   "milk-land-jogurt-2-8-1l"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/milk-land-jogurt-2-8-1l/97"
+  ],
+  "specFiles": [
+   "file/milk-land-jogurt-28/38"
+  ]
+ },
+ {
+  "slug": "natura-kisela-pavlaka-12-800g",
+  "brand": "natura",
+  "category": "pavlake",
+  "name": "Natura Kisela pavlaka",
+  "fat": "12",
+  "size": "800 g",
+  "pack": "tub",
+  "sourceTitle": "MI99 Natura Kisela Pavlaka 12% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih pavlaka",
+   "Količina pavlake sadržana u proizvodu : 800 gr"
+  ],
+  "nutrition": {
+   "energy": "542kJ / 132kcal",
+   "protein": "3,0 g",
+   "carbs": "3,0 g",
+   "fat": "12 g"
+  },
+  "logistics": {
+   "primary": "800g, PP kantica s poklopcem 800g, PP bucket with lid",
+   "primaryWeight": "800 / 845",
+   "primaryDims": "118x125x125",
+   "secondaryUnits": "6x800g, kartonska kutija 6x800g, cardboard box",
+   "secondaryWeight": "5,07 / 5,16",
+   "secondaryDims": "130x260x395",
+   "pallet": "EUR",
+   "palletLayers": "8X9",
+   "palletUnits": "432X54",
+   "palletWeight": "345,6/387,5",
+   "palletDims": "1111x800x1420",
+   "ean": "3877000214495"
+  },
+  "images": [
+   "natura-kisela-pavlaka-12"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kisela-pavlaka-12/89"
+  ],
+  "specFiles": [
+   "file/mi99-natura-kisela-pavlaka-12/32"
+  ]
+ },
+ {
+  "slug": "natura-kisela-pavlaka-20-800g",
+  "brand": "natura",
+  "category": "pavlake",
+  "name": "Natura Kisela pavlaka",
+  "fat": "20",
+  "size": "800 g",
+  "pack": "tub",
+  "sourceTitle": "MI99 Natura Kisela Pavlaka 20% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih pavlaka",
+   "Količina pavlake sadržana u proizvodu : 800 gr"
+  ],
+  "nutrition": {
+   "energy": "842kJ / 204kcal",
+   "protein": "3,0 g",
+   "carbs": "3,0 g",
+   "fat": "20 g"
+  },
+  "logistics": {
+   "primary": "800g, PP kantica s poklopcem 800g, PP bucket with lid",
+   "primaryWeight": "800 / 845",
+   "primaryDims": "118x125x125",
+   "secondaryUnits": "6x800g, kartonska kutija 6x800g, cardboard box",
+   "secondaryWeight": "5,07 / 5,16",
+   "secondaryDims": "130x260x395",
+   "pallet": "EUR",
+   "palletLayers": "8X9",
+   "palletUnits": "432X54",
+   "palletWeight": "345,6/387,5",
+   "palletDims": "1111x800x1420",
+   "ean": "3877000214372"
+  },
+  "images": [
+   "natura-kisela-pavlaka-20"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kisela-pavlaka-20/90"
+  ],
+  "specFiles": [
+   "file/mi99-natura-kisela-pavlaka-20/31"
+  ]
+ },
+ {
+  "slug": "natura-kisela-pavlaka-20-300g",
+  "brand": "natura",
+  "category": "pavlake",
+  "name": "Natura Kisela pavlaka",
+  "fat": "20",
+  "size": "300 g",
+  "pack": "cup",
+  "sourceTitle": "Natura kisela pavlaka 300gr 20% mm",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih pavlaka",
+   "Količina pavlake sadržana u proizvodu : 300 gr"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "protein": "3,4 g",
+   "carbs": "4,5 g",
+   "fat": "2,8 g"
+  },
+  "logistics": {
+   "primary": "čašica(PP) 300g",
+   "primaryWeight": "300/315",
+   "primaryDims": "95x95x112",
+   "secondaryUnits": "12",
+   "secondaryWeight": "3,60/3,78",
+   "secondaryDims": "120x260x260",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120x12",
+   "palletWeight": "409,75/432",
+   "palletDims": "1730x800x1200",
+   "ean": "3877000214587"
+  },
+  "images": [
+   "natura-kisela-pavlaka-300gr-20-mm"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kisela-pavlaka-300gr-20-mm/103"
+  ],
+  "specFiles": [
+   "file/pavlaka-20mm-300g/43"
+  ]
+ },
+ {
+  "slug": "natura-kisela-pavlaka-za-sir-25-800g",
+  "brand": "natura",
+  "category": "pavlake",
+  "name": "Natura Kisela pavlaka za svježi sir",
+  "fat": "25",
+  "size": "800 g",
+  "pack": "tub",
+  "sourceTitle": "MI99 Natura Kisela Pavlaka za svježi sir 25% m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih pavlaka",
+   "Količina pavlake sadržana u proizvodu : 800 gr"
+  ],
+  "nutrition": {
+   "energy": "1030kJ / 250kcal",
+   "protein": "3,2 g",
+   "carbs": "3,0 g",
+   "fat": "25 g"
+  },
+  "logistics": {
+   "primary": "800g, PP kantica s poklopcem 800g, PP bucket with lid",
+   "primaryWeight": "800 / 845",
+   "primaryDims": "118x125x125",
+   "secondaryUnits": "6x800g, kartonska kutija 6x800g, cardboard box",
+   "secondaryWeight": "5,07 / 5,16",
+   "secondaryDims": "130x260x395",
+   "pallet": "EUR",
+   "palletLayers": "8X9",
+   "palletUnits": "432X54",
+   "palletWeight": "345,6/387,5",
+   "palletDims": "1111x800x1420",
+   "ean": "3877000214501"
+  },
+  "images": [
+   "natura-kisela-pavlaka-25"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kisela-pavlaka-25/88"
+  ],
+  "specFiles": [
+   "file/mi99-natura-kisela-pavlaka-za-svjezi-sir-25/30"
+  ]
+ },
+ {
+  "slug": "natura-kiselo-vrhnje-za-sir-25-300g",
+  "brand": "natura",
+  "category": "pavlake",
+  "name": "Natura Kiselo vrhnje za sir",
+  "fat": "25",
+  "size": "300 g",
+  "pack": "cup",
+  "sourceTitle": "Natura Kiselo vrhnje za sir 25%mm 300g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "1030kJ / 250kcal",
+   "protein": "3,2 g",
+   "carbs": "3,0 g",
+   "fat": "25 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP) 300g",
+   "primaryWeight": "300/315",
+   "primaryDims": "95x95x112",
+   "secondaryUnits": "12",
+   "secondaryWeight": "3,60/3,78",
+   "secondaryDims": "120x260x260",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120X12",
+   "palletWeight": "409,75/432",
+   "palletDims": "1730x800x1200"
+  },
+  "images": [
+   "natura-kiselo-vrhnje-za-sir-25-mm-300g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kiselo-vrhnje-za-sir-25-mm-300g/222"
+  ],
+  "specFiles": [
+   "file/natura-kiselo-vrhnje-za-sir-25-mm-300g/140"
+  ]
+ },
+ {
+  "slug": "schmand-18-180g",
+  "brand": "migg",
+  "category": "pavlake",
+  "name": "Schmand",
+  "fat": "18",
+  "size": "180 g",
+  "pack": "cup",
+  "sourceTitle": "Schmand 18% 180g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "782kJ / 189kcal",
+   "protein": "2,7 g",
+   "carbs": "4,1 g",
+   "fat": "18 g"
+  },
+  "logistics": {
+   "primary": "čašica (PP) 180g",
+   "primaryWeight": "180 / 186",
+   "primaryDims": "94x61x46",
+   "secondaryUnits": "20",
+   "secondaryWeight": "3,60/3,83",
+   "secondaryDims": "94x297x390",
+   "pallet": "EUR",
+   "palletLayers": "8X17",
+   "palletUnits": "136X20",
+   "palletWeight": "489,6/520,92",
+   "palletDims": "1750x800x1200"
+  },
+  "images": [
+   "schmand-18-180g",
+   "schmand-18"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/schmand-18-180g/220",
+   "https://mi99.ba/view-more/schmand-18/87"
+  ],
+  "specFiles": [
+   "file/mi99-schmand-18-180g/138",
+   "file/mi99-schmand-18/29"
+  ]
+ },
+ {
+  "slug": "schmand-18-400g",
+  "brand": "migg",
+  "category": "pavlake",
+  "name": "Schmand",
+  "fat": "18",
+  "size": "400 g",
+  "pack": "cup",
+  "sourceTitle": "Schmand 18% 400g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "782kJ / 189kcal",
+   "protein": "2,7 g",
+   "carbs": "4,1 g",
+   "fat": "18 g"
+  },
+  "logistics": {
+   "primary": "čašica (PP) 400g",
+   "primaryWeight": "400/ 415",
+   "primaryDims": "112x95x95",
+   "secondaryUnits": "12",
+   "secondaryWeight": "4,80/4,98",
+   "secondaryDims": "112x300x400",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120X12",
+   "palletWeight": "576/597,6",
+   "palletDims": "1750x800x1200"
+  },
+  "images": [
+   "schmand-18-400g",
+   "schmand-18-m-m-400g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/schmand-18-400g/219",
+   "https://mi99.ba/view-more/schmand-18-m-m-400g/102"
+  ],
+  "specFiles": [
+   "file/mi99-schmand-18-400g/137",
+   "file/shmand-400-specs/42"
+  ]
+ },
+ {
+  "slug": "schmand-18-800g",
+  "brand": "migg",
+  "category": "pavlake",
+  "name": "Schmand",
+  "fat": "18",
+  "size": "800 g",
+  "pack": "tub",
+  "sourceTitle": "Schmand 18% 800g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "782kJ / 189kcal",
+   "protein": "2,7 g",
+   "carbs": "4,1 g",
+   "fat": "18 g"
+  },
+  "logistics": {
+   "primary": "800g, PP kantica s poklopcem 800g, PP bucket with lid",
+   "primaryWeight": "800 / 845",
+   "primaryDims": "122x125x125",
+   "secondaryUnits": "6x800g, kartonska kutija 6x800g, cardboard box",
+   "secondaryWeight": "4,8 / 5,16",
+   "secondaryDims": "130x257x257",
+   "pallet": "EUR",
+   "palletLayers": "8X9",
+   "palletUnits": "72X6",
+   "palletWeight": "345,62/391,62",
+   "palletDims": "1200x800x1450"
+  },
+  "images": [
+   "schmand-18-800g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/schmand-18-800g/218"
+  ],
+  "specFiles": []
+ },
+ {
+  "slug": "paprika-u-pavlaci-18-800g",
+  "brand": "migg",
+  "category": "pavlake",
+  "name": "Paprika u pavlaci",
+  "fat": "18",
+  "size": "800 g",
+  "pack": "tub",
+  "sourceTitle": "MI99 Paprika u pavlaci 18% mm  800g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "751kJ /  182kcal",
+   "protein": "3,0 g",
+   "carbs": "3,1 g",
+   "fat": "18 g",
+   "salt": "0,7 g"
+  },
+  "logistics": {
+   "primary": "800g, PP kantica s poklopcem 800g, PP bucket with lid",
+   "primaryWeight": "800 / 845",
+   "primaryDims": "122x125x125",
+   "secondaryUnits": "6x800g, kartonska kutija 6x800g, cardboard box",
+   "secondaryWeight": "4,8 / 5,16",
+   "secondaryDims": "130x257x257",
+   "pallet": "EUR",
+   "palletLayers": "8X9",
+   "palletUnits": "72X6",
+   "palletWeight": "345,62/391,62",
+   "palletDims": "1200x800x1450"
+  },
+  "images": [
+   "paprika-u-pavlaci-18-mm-800g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/paprika-u-pavlaci-18-mm-800g/213"
+  ],
+  "specFiles": [
+   "file/mi99-paprika-u-pavlaci-18/130"
+  ]
+ },
+ {
+  "slug": "natura-kefir-2-8-200g",
+  "brand": "natura",
+  "category": "kefir",
+  "name": "Natura Kefir",
+  "fat": "2,8",
+  "size": "200 g",
+  "pack": "cup",
+  "sourceTitle": "MI99 Natura Kefir  2,8 % m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Čašica( PP) 200g",
+   "primaryWeight": "200 / 207",
+   "primaryDims": "75x75x101",
+   "secondaryUnits": "20",
+   "secondaryWeight": "4,00/4,29",
+   "secondaryDims": "94x297x390",
+   "pallet": "EUR",
+   "palletLayers": "8X17",
+   "palletUnits": "136X20",
+   "palletWeight": "544/603,44",
+   "palletDims": "1750x800x1200",
+   "ean": "3877000214792"
+  },
+  "images": [
+   "natura-kefir-2-8-mm-200g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kefir-2-8-mm-200g/112"
+  ],
+  "specFiles": [
+   "file/kefir-casa-200g-specs/48"
+  ]
+ },
+ {
+  "slug": "natura-kefir-2-8-300g",
+  "brand": "natura",
+  "category": "kefir",
+  "name": "Natura Kefir",
+  "fat": "2,8",
+  "size": "300 g",
+  "pack": "cup",
+  "sourceTitle": "MI99 Natura Kefir  2,8 % m.m.",
+  "bullets": [
+   "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+   "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+   "Namijenjeno pravim poznavaocima kvalitetnih jogurta"
+  ],
+  "nutrition": {
+   "energy": "238kJ / 57kcal",
+   "fat": "2,8 g",
+   "saturates": "1,8 g",
+   "carbs": "4,5 g",
+   "sugars": "4,5 g",
+   "protein": "3,4 g",
+   "salt": "0,13 g"
+  },
+  "logistics": {
+   "primary": "Čašica( PP) 300g",
+   "primaryWeight": "300 / 315",
+   "primaryDims": "95x95x112",
+   "secondaryUnits": "12",
+   "secondaryWeight": "3,60/3,78",
+   "secondaryDims": "120x260x260",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120X12",
+   "palletWeight": "409,75/432",
+   "palletDims": "1730x800x1200",
+   "ean": "3877000214822"
+  },
+  "images": [
+   "natura-kefir-2-8-mm-300-g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/natura-kefir-2-8-mm-300-g/111"
+  ],
+  "specFiles": [
+   "file/kefir-casa-specs/47"
+  ]
+ },
+ {
+  "slug": "grcki-jogurt-150g",
+  "brand": "migg",
+  "category": "grcki-jogurt",
+  "name": "Grčki jogurt",
+  "fat": null,
+  "size": "150 g",
+  "pack": "cup",
+  "sourceTitle": "MI99 Grcki jogurt 150g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "534kJ / 129kcal",
+   "protein": "4,9 g",
+   "carbs": "5,2 g",
+   "fat": "9,8 g",
+   "salt": "0,2 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP)150g",
+   "primaryWeight": "150 / 157",
+   "primaryDims": "42x95x95",
+   "secondaryUnits": "12",
+   "secondaryWeight": "1,80/2,08",
+   "secondaryDims": "45x260x260",
+   "pallet": "EUR",
+   "palletLayers": "16X14",
+   "palletUnits": "224X12",
+   "palletWeight": "403,2/480,92",
+   "palletDims": "1440x800x1200"
+  },
+  "images": [
+   "grcki-jogurt-150g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/grcki-jogurt-150g/214"
+  ],
+  "specFiles": [
+   "file/grckijogrut/131"
+  ]
+ },
+ {
+  "slug": "grcki-jogurt-400g",
+  "brand": "migg",
+  "category": "grcki-jogurt",
+  "name": "Grčki jogurt",
+  "fat": null,
+  "size": "400 g",
+  "pack": "cup",
+  "sourceTitle": "Grčki jogurt 400g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "534kJ / 129kcal",
+   "protein": "4,9 g",
+   "carbs": "5,2 g",
+   "fat": "9,8 g",
+   "salt": "0,2 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP) 400g",
+   "primaryWeight": "400 / 411",
+   "primaryDims": "119x95x95",
+   "secondaryUnits": "12",
+   "secondaryWeight": "4,80/5,05",
+   "secondaryDims": "120x260x260",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120X12",
+   "palletWeight": "576/505",
+   "palletDims": "1848x800x1200"
+  },
+  "images": [
+   "grcki-jogurt-400g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/grcki-jogurt-400g/217"
+  ],
+  "specFiles": [
+   "file/mi99-grcki-jogurt-400g/135"
+  ]
+ },
+ {
+  "slug": "ayran-250g",
+  "brand": "migg",
+  "category": "ayran",
+  "name": "Ayran",
+  "fat": null,
+  "size": "250 g",
+  "pack": "cup",
+  "sourceTitle": "Ayran 250g",
+  "bullets": [],
+  "nutrition": {
+   "energy": "129kJ / 31kcal",
+   "protein": "1,5 g",
+   "carbs": "2,8 g",
+   "fat": "1,5 g",
+   "salt": "0,7 g"
+  },
+  "logistics": {
+   "primary": "čašica( PP) 250g",
+   "primaryWeight": "250/ 258",
+   "primaryDims": "106x75x75",
+   "secondaryUnits": "20",
+   "secondaryWeight": "5/5,27",
+   "secondaryDims": "106x297x390",
+   "pallet": "EUR",
+   "palletLayers": "8X15",
+   "palletUnits": "120X12",
+   "palletWeight": "680/716,76",
+   "palletDims": "1848x800x1200"
+  },
+  "images": [
+   "ayran-250g"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/ayran-250g/216"
+  ],
+  "specFiles": [
+   "file/ayran-250/134"
+  ]
+ },
+ {
+  "slug": "ayran-1kg",
+  "brand": "migg",
+  "category": "ayran",
+  "name": "Ayran",
+  "fat": null,
+  "size": "1 kg",
+  "pack": "bottle",
+  "sourceTitle": "Ayran 1kg",
+  "bullets": [],
+  "nutrition": {
+   "energy": "129kJ / 31kcal",
+   "protein": "1,5 g",
+   "carbs": "2,8 g",
+   "fat": "1,5 g",
+   "salt": "0,7 g"
+  },
+  "logistics": {
+   "primary": "Flasa( PP) 1000g",
+   "primaryWeight": "1000,0 / 1030,0",
+   "primaryDims": "84x84x254,9",
+   "secondaryUnits": "6",
+   "secondaryWeight": "6/8,24",
+   "secondaryDims": "252x168x254,9",
+   "pallet": "EUR",
+   "palletLayers": "5X22",
+   "palletUnits": "110X6",
+   "palletWeight": "660/713,75",
+   "palletDims": "1200x800x1420"
+  },
+  "images": [
+   "ayran-1kg"
+  ],
+  "legacyUrls": [
+   "https://mi99.ba/view-more/ayran-1kg/215"
+  ],
+  "specFiles": [
+   "file/mi99-ayran-1kg/133"
+  ]
+ }
+]

@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "siteName": "MI99 – Mliječna industrija 99",
+    "defaultTitle": "MI99 – Prirodno dobro. Od prvog gutljaja.",
+    "description": "Mliječna industrija 99 iz Gradačca proizvodi trajno mlijeko, jogurte, kefir i pavlake brendova Natura i Milkland.",
+    "about": "O nama – Mliječna industrija 99 iz Gradačca",
+    "products": "Proizvodi – Natura, Milkland i MI99",
+    "production": "Proizvodnja i kvalitet",
+    "recipes": "Recepti i inspiracija",
+    "partners": "Poslovna saradnja – Postanite naš partner",
+    "news": "Novosti",
+    "contact": "Kontakt",
+    "privacy": "Politika privatnosti",
+    "brands": "Naši brendovi"
+  },
+  "nav": {
+    "home": "Početna",
+    "about": "O nama",
+    "products": "Proizvodi",
+    "production": "Proizvodnja i kvalitet",
+    "news": "Novosti",
+    "contact": "Kontakt",
+    "recipes": "Recepti",
+    "partners": "Poslovna saradnja",
+    "brands": "Brendovi",
+    "privacy": "Politika privatnosti",
+    "allProducts": "Svi proizvodi",
+    "menu": "Meni",
+    "openMenu": "Otvori meni",
+    "closeMenu": "Zatvori meni",
+    "language": "Jezik",
+    "skip": "Preskoči na sadržaj",
+    "categories": "Kategorije",
+    "megaIntro": "Više od 20 proizvoda iz naše mljekare u Gradačcu.",
+    "explore": "Istražite",
+    "productsInCategory": "{count, plural, one {# proizvod} few {# proizvoda} other {# proizvoda}}"
+  },
+  "common": {
+    "learnMore": "Saznajte više",
+    "viewProduct": "Pogledajte proizvod",
+    "allProducts": "Svi proizvodi",
+    "back": "Nazad",
+    "download": "Preuzmite",
+    "readMore": "Pročitajte više",
+    "illustrative": "Ilustrativna fotografija",
+    "original": "Originalna fotografija MI99",
+    "proposed": "Predloženi novi sadržaj",
+    "minutes": "{count} min",
+    "servings": "{count, plural, one {# osoba} few {# osobe} other {# osoba}}",
+    "source": "Izvor",
+    "home": "Početna",
+    "undated": "Iz arhive kompanije",
+    "year": "Godina {year}",
+    "share": "Podijeli",
+    "pdf": "PDF"
+  },
+  "hero": {
+    "eyebrow": "Mliječna industrija 99 · Gradačac",
+    "title1": "Prirodno dobro.",
+    "title2": "Od prvog gutljaja.",
+    "text": "Mliječni proizvodi iz srca Bosne i Hercegovine, stvoreni za trenutke koje dijelimo svaki dan.",
+    "ctaProducts": "Istražite proizvode",
+    "ctaAbout": "Upoznajte MI99",
+    "badge": "Natura · Milkland",
+    "scroll": "Skrolajte"
+  },
+  "highlights": {
+    "label": "MI99 u brojkama",
+    "founded": "Godina osnivanja kompanije",
+    "products": "Proizvoda u službenom asortimanu",
+    "brands": "Brenda: Natura i Milkland",
+    "markets": "Zemalja u kojima su naši proizvodi na policama",
+    "location": "Proizvodnja u Gradačcu, Bosna i Hercegovina"
+  },
+  "showcase": {
+    "eyebrow": "Asortiman",
+    "title": "Dobro za svaki dan.",
+    "text": "Od trajnog mlijeka do kremaste pavlake – odaberite kategoriju i upoznajte proizvode.",
+    "cta": "Svi proizvodi iz kategorije",
+    "count": "{count, plural, one {# proizvod} few {# proizvoda} other {# proizvoda}}"
+  },
+  "brands": {
+    "eyebrow": "Brendovi",
+    "title1": "Naši brendovi.",
+    "title2": "Vaši omiljeni okusi.",
+    "discover": "Otkrijte {brand}",
+    "range": "{count, plural, one {# proizvod} few {# proizvoda} other {# proizvoda}}",
+    "logoNote": "Znak preuzet s originalne ambalaže"
+  },
+  "nature": {
+    "eyebrow": "Od prirode do vašeg stola",
+    "title": "Od prirode do vašeg stola.",
+    "text": "Svaki proizvod počinje mnogo prije mljekare – na farmama naših kooperanata.",
+    "note": "Fotografije farmi su ilustrativne i ne prikazuju konkretne farme kooperanata MI99.",
+    "steps": [
+      {
+        "title": "Saradnja s kooperantima",
+        "text": "Ozbiljan i sistemski pristup otkupu sirovog mlijeka okupio je, prema podacima kompanije, više od 1.500 zadovoljnih kooperanata."
+      },
+      {
+        "title": "Prikupljanje mlijeka",
+        "text": "Sirovo mlijeko stiže na automatizirane linije prijema sirovine, gdje počinje kontrola kvaliteta."
+      },
+      {
+        "title": "Kontrolisana proizvodnja",
+        "text": "Pasterizacija, UHT sterilizacija i fermentacija odvijaju se u potpuno sterilnim i kontrolisanim uvjetima, uz nadzor laboratorije."
+      },
+      {
+        "title": "Gotovi mliječni proizvodi",
+        "text": "Iz centralnog skladišta proizvodi Natura i Milkland putuju na police u Bosni i Hercegovini i regionu."
+      }
+    ]
+  },
+  "productionTeaser": {
+    "eyebrow": "Proizvodnja i kvalitet",
+    "title1": "Savremena proizvodnja.",
+    "title2": "Posvećenost kvalitetu.",
+    "text": "Najsavremeniji mašinski park, potpuno sterilni uvjeti i laboratorija koja prati svaki korak – to je standard naše mljekare.",
+    "cta": "Upoznajte proizvodnju"
+  },
+  "lifestyle": {
+    "eyebrow": "Svaki dan",
+    "title": "Za stol oko kojeg se okupljamo.",
+    "text": "Doručak koji traje malo duže, nedjeljne palačinke, pita uz hladan jogurt. Naši proizvodi su tu gdje se dijeli.",
+    "scenes": [
+      "Porodični doručak",
+      "Jogurt i svježe voće",
+      "Pita uz kiselu pavlaku",
+      "Mlijeko i domaći kruh"
+    ]
+  },
+  "recipes": {
+    "eyebrow": "Recepti i inspiracija",
+    "title1": "Mali trenuci.",
+    "title2": "Veliki okusi.",
+    "text": "Jednostavni recepti s proizvodima Natura i MI99.",
+    "all": "Svi recepti",
+    "ingredients": "Sastojci",
+    "steps": "Priprema",
+    "tip": "Savjet",
+    "usedProducts": "Korišteni proizvodi",
+    "time": "Vrijeme",
+    "servingsLabel": "Porcije",
+    "difficulty": "Zahtjevnost",
+    "more": "Još recepata",
+    "proposedNote": "Recepti su predloženi novi sadržaj za redizajniranu stranicu i nisu dio postojećeg službenog sadržaja MI99."
+  },
+  "partners": {
+    "eyebrow": "Poslovna saradnja",
+    "title": "Rastimo zajedno.",
+    "text": "Distribucija, maloprodaja, HoReCa ili vlastita robna marka – razgovarajmo o saradnji.",
+    "cta": "Postanite naš partner",
+    "ctaSpecs": "Preuzmite specifikacije proizvoda",
+    "segments": [
+      {
+        "title": "Distributeri",
+        "text": "Za svako tržište radimo s generalnim uvoznicima i distributerima."
+      },
+      {
+        "title": "Trgovinski lanci",
+        "text": "Dugogodišnje prisustvo na policama trgovinskih lanaca u BiH i regionu."
+      },
+      {
+        "title": "HoReCa",
+        "text": "Mlijeko, pavlake i jogurti u pakovanjima do 1,5 kg za profesionalne kuhinje."
+      },
+      {
+        "title": "Međunarodni partneri",
+        "text": "EU licenca za izvoz i proizvodi prisutni u šest zemalja regiona."
+      },
+      {
+        "title": "Vlastita robna marka",
+        "text": "Naši proizvodi se, pored vlastitih brendova, nalaze i pod robnim markama drugih kupaca."
+      }
+    ],
+    "capabilitiesTitle": "Kapaciteti",
+    "capabilities": [
+      {
+        "value": "12.000 l/h",
+        "label": "TBA 8 punilice za UHT mlijeko"
+      },
+      {
+        "value": "15.000 l/h",
+        "label": "Pasterizacija sirovog mlijeka"
+      },
+      {
+        "value": "4.500 kg/h",
+        "label": "HAMBA punjenje čašica"
+      },
+      {
+        "value": "3.500 kg/h",
+        "label": "AVE punjenje flaša"
+      }
+    ],
+    "logisticsTitle": "Logistički podaci na dohvat ruke",
+    "logisticsText": "Svaka stranica proizvoda sadrži EAN kod, dimenzije pakovanja i paletizaciju te PDF specifikaciju za preuzimanje.",
+    "formTitle": "Upit za poslovnu saradnju",
+    "formText": "Ostavite podatke i naš prodajni tim će vas kontaktirati."
+  },
+  "news": {
+    "eyebrow": "Novosti",
+    "title": "Novosti i arhiva.",
+    "text": "Certifikati, tržišta i asortiman – objave zasnovane na službenim dokumentima kompanije.",
+    "all": "Sve",
+    "latest": "Najnovije iz MI99",
+    "archiveNote": "Postojeća stranica mi99.ba nema objavljenih novosti. Ove objave zasnovane su isključivo na službenim podacima i dokumentima MI99; datumi su prikazani samo gdje ih dokument navodi.",
+    "related": "Ostale objave",
+    "empty": "Nema objava u ovoj kategoriji."
+  },
+  "about": {
+    "eyebrow": "O nama",
+    "title": "Mljekara iz Gradačca. Okusi za cijeli region.",
+    "lead": "„Mliječna industrija 99“ d.o.o. osnovana je 2015. godine kupovinom strateškog udjela od Zott International GmbH, Mertingen, Njemačka. Osnovna djelatnost kompanije je prerada i promet mlijeka i mliječnih prerađevina.",
+    "p1": "Kompanija je smještena u Gradačcu, u sjeveroistočnom dijelu Bosne i Hercegovine, sa strateškom pozicijom u blizini granice s Republikom Hrvatskom i dobrim putnim komunikacijama.",
+    "p2": "Kompanija posjeduje certifikate o kvaliteti i upravljanju, sljedivosti proizvodnje i kontroli kvaliteta, kao i EU licencu za izvoz proizvoda u zemlje Evropske unije – licencu koja potvrđuje da su proizvodi i proizvodni proces usklađeni sa strogim regulativama EU.",
+    "missionTitle": "Misija",
+    "mission": "Naša misija je zadovoljan krajnji potrošač, uz zadovoljstvo svih faktora uključenih u isporuku naših proizvoda do kupaca. Naša najbolja referenca je zadovoljan kupac.",
+    "visionTitle": "Vizija",
+    "vision": "Postati lider u segmentu mljekarstva, uz stalno ulaganje u inovacije i tehnologiju, kako bismo osigurali vrhunski kvalitet proizvoda naših brendova Natura i Milkland.",
+    "peopleTitle": "Ljudi i kooperanti",
+    "employees": "zaposlenih",
+    "graduates": "visokoobrazovanih",
+    "farmers": "kooperanata",
+    "peopleNote": "Podaci s postojeće stranice mi99.ba (datum nije naveden) – potrebno ažurirati prije objave.",
+    "marketsTitle": "Uvijek svježe – u cijelom regionu",
+    "marketsText": "Sistem isporuke koncipiran je tako da kupci u svakom trenutku imaju najsvježije dostupne proizvode iz centralnog skladišta. Za svako tržište imamo generalne uvoznike i distributere.",
+    "factoryCaption": "Pogon Mliječne industrije 99 u Gradačcu"
+  },
+  "production": {
+    "eyebrow": "Proizvodnja i kvalitet",
+    "title1": "Savremena proizvodnja.",
+    "title2": "Posvećenost kvalitetu.",
+    "lead": "Menadžment kompanije veliki značaj pridaje kvaliteti proizvodnje. Ponosni smo na najsavremeniji mašinski park i primjenu najnovijih dostignuća u mljekarstvu.",
+    "sterileTitle": "Potpuno sterilni uvjeti",
+    "sterileText": "Primjenom standarda „potpuno sterilnih uvjeta“ mlijeko se obrađuje i pakuje u potpuno sterilnim i kontrolisanim uvjetima. Zato možemo ponuditi duge rokove trajanja uz zadržavanje vrhunskog kvaliteta.",
+    "areas": [
+      {
+        "title": "Proizvodni pogoni",
+        "text": "Automatizirane linije prijema sirovine i CIP sistemi za higijenu bez kompromisa."
+      },
+      {
+        "title": "Prerada mlijeka",
+        "text": "Pasterizatori kapaciteta 15.000 l/h za sirovo mlijeko i fermentirane proizvode, uz zonu miješanja."
+      },
+      {
+        "title": "UHT tehnologija",
+        "text": "UHT sterilizator i TBA 8 punilice kapaciteta 12.000 l/h za trajno mlijeko u tetrapaku."
+      },
+      {
+        "title": "Laboratorija i kontrola kvaliteta",
+        "text": "Moderno dizajnirana laboratorija; sve procese kontrolišemo s kontrolnih ploča uz jasno definisane korake i procedure."
+      },
+      {
+        "title": "Automatizirano punjenje",
+        "text": "AVE punjenje flaša (3.500 kg/h) i HAMBA punjenje čašica (4.500 kg/h)."
+      },
+      {
+        "title": "Pakovanje i skladištenje",
+        "text": "Skladište za UHT mlijeko i ambalažu te hladnjača za fermentirane proizvode."
+      }
+    ],
+    "equipmentTitle": "Mašinski park",
+    "certTitle": "Certifikati",
+    "certText": "Dokumenti objavljeni na postojećoj stranici mi99.ba. Oba dokumenta su istekla – informacije o trenutno važećim certifikatima dostupne su na upit.",
+    "issued": "Izdat",
+    "validUntil": "Važio do",
+    "expired": "Arhivski dokument · istekao",
+    "view": "Pogledajte dokument",
+    "scope": "Obuhvat",
+    "issuer": "Izdavač",
+    "galleryTitle": "Iz našeg pogona",
+    "galleryNote": "Originalne fotografije MI99, preuzete s postojeće stranice. Za objavu preporučujemo novo profesionalno snimanje pogona."
+  },
+  "product": {
+    "brand": "Brend",
+    "category": "Kategorija",
+    "size": "Pakovanje",
+    "fat": "Mliječna mast",
+    "packaging": "Ambalaža",
+    "nutrition": "Prosječna hranjiva vrijednost na 100 g",
+    "energy": "Energetska vrijednost",
+    "fatRow": "Masti",
+    "saturates": "od kojih zasićene masne kiseline",
+    "carbs": "Ugljikohidrati",
+    "sugars": "od kojih šećeri",
+    "protein": "Bjelančevine",
+    "salt": "Sol",
+    "nutritionMissing": "Nutritivne vrijednosti za ovo pakovanje su u provjeri i bit će objavljene nakon potvrde.",
+    "details": "Sastav i čuvanje",
+    "ingredients": "Sastojci",
+    "storage": "Čuvanje",
+    "shelfLife": "Rok upotrebe",
+    "shelfLifeDays": "{days} dana",
+    "afterOpening": "Nakon otvaranja",
+    "allergens": "Alergeni",
+    "containsMilk": "Sadrži mlijeko",
+    "specSource": "Prema službenoj specifikaciji",
+    "logistics": "Logistički podaci",
+    "ean": "EAN-13",
+    "primary": "Jedinično pakovanje",
+    "primaryWeight": "Neto / bruto masa jediničnog pakovanja",
+    "primaryDims": "Dimenzije v × š × d (mm)",
+    "secondaryUnits": "Komada u transportnom pakovanju",
+    "secondaryWeight": "Neto / bruto masa transportnog pakovanja (kg)",
+    "secondaryDims": "Dimenzije transportnog pakovanja (mm)",
+    "pallet": "Paleta",
+    "palletLayers": "Redova na paleti × kartona u redu",
+    "palletUnits": "Jediničnih × transportnih pakovanja",
+    "palletWeight": "Neto / bruto masa s paletom (kg)",
+    "palletDims": "Dimenzije s paletom (mm)",
+    "downloadSpec": "Preuzmite specifikaciju (PDF)",
+    "variants": "Dostupna pakovanja",
+    "related": "Možda vam se svidi",
+    "inquiryTitle": "Zanima vas ovaj proizvod za vaše poslovanje?",
+    "inquiryText": "Za distribuciju, maloprodaju i HoReCa pošaljite upit našem prodajnom timu.",
+    "inquiryCta": "Pošaljite poslovni upit",
+    "highlights": "Zašto ga volimo",
+    "fromSource": "Opis proizvoda s originalne stranice MI99",
+    "bullets": {
+      "freshMilk": "Pravljeno od svježeg kravljeg mlijeka ekstra kvalitete",
+      "technology": "Proizvedeno po najsavremenijim tehnologijama i procesima proizvodnje",
+      "connoisseursMilk": "Namijenjeno pravim poznavaocima kvaliteta mlijeka",
+      "connoisseursYoghurt": "Namijenjeno pravim poznavaocima kvalitetnih jogurta"
+    },
+    "packshotNote": "Originalna fotografija ambalaže MI99, digitalno izoštrena i izdvojena od pozadine.",
+    "designVariant": "Dizajn ambalaže {n}",
+    "count": "{count, plural, one {# proizvod} few {# proizvoda} other {# proizvoda}}",
+    "filterAll": "Svi",
+    "filterBrand": "Brend",
+    "filterCategory": "Kategorija",
+    "noResults": "Nema proizvoda za odabrane filtere.",
+    "reset": "Poništi filtere",
+    "catalogTitle": "Naši proizvodi.",
+    "catalogText": "Više od 20 proizvoda pod brendovima Natura, Milkland i MI99 – bez konzervansa u trajnom mlijeku, s nutritivnim i logističkim podacima za svako pakovanje."
+  },
+  "form": {
+    "company": "Naziv kompanije",
+    "contactPerson": "Kontakt osoba",
+    "name": "Ime i prezime",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "country": "Država",
+    "type": "Vrsta saradnje",
+    "subject": "Tema",
+    "message": "Poruka",
+    "consent": "Slažem se da MI99 obrađuje moje podatke radi odgovora na upit.",
+    "submit": "Pošaljite upit",
+    "sending": "Šaljem…",
+    "required": "Obavezno polje",
+    "invalidEmail": "Unesite ispravnu e-mail adresu",
+    "invalidPhone": "Unesite ispravan broj telefona",
+    "tooShort": "Poruka treba imati najmanje 10 znakova",
+    "consentRequired": "Potrebna je vaša saglasnost",
+    "select": "Odaberite…",
+    "types": {
+      "distributor": "Distribucija",
+      "retail": "Trgovinski lanac",
+      "horeca": "HoReCa",
+      "international": "Međunarodno partnerstvo",
+      "privateLabel": "Vlastita robna marka",
+      "other": "Ostalo"
+    },
+    "subjects": {
+      "general": "Opći upit",
+      "products": "Proizvodi",
+      "business": "Poslovna saradnja",
+      "media": "Mediji"
+    },
+    "demoTitle": "Demonstracijski obrazac",
+    "demoText": "Ovaj obrazac validira podatke i šalje ih serverskoj ruti, ali još nije povezan s e-mail servisom. Do povezivanja pišite na info@mi99.ba.",
+    "successTitle": "Hvala vam!",
+    "successDemo": "Upit je ispravno popunjen i primljen u demonstracijskom načinu – nije proslijeđen e-mailom. Za stvarni upit pišite na info@mi99.ba.",
+    "successLive": "Vaš upit je poslan. Javit ćemo vam se u najkraćem roku.",
+    "error": "Slanje nije uspjelo. Pokušajte ponovo ili pišite na info@mi99.ba.",
+    "again": "Pošaljite novi upit",
+    "product": "Proizvod (opcionalno)"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Razgovarajmo.",
+    "text": "Pitanja o proizvodima, saradnji ili kompaniji – tu smo.",
+    "address": "Adresa",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "hours": "Društvene mreže",
+    "mapTitle": "Lokacija pogona u Gradačcu",
+    "openMap": "Otvorite u OpenStreetMap",
+    "formTitle": "Pošaljite poruku",
+    "businessTitle": "Poslovni upit?",
+    "businessText": "Za distribuciju, trgovinske lance, HoReCa i vlastitu robnu marku koristite namjenski obrazac.",
+    "businessCta": "Obrazac za poslovnu saradnju"
+  },
+  "footer": {
+    "tagline": "Prirodno dobro. Od prvog gutljaja.",
+    "navigation": "Navigacija",
+    "products": "Proizvodi",
+    "contact": "Kontakt",
+    "rights": "Sva prava zadržana.",
+    "concept": "Koncept redizajna – demonstracija",
+    "follow": "Pratite nas"
+  },
+  "privacy": {
+    "title": "Politika privatnosti",
+    "updated": "Nacrt za pravnu provjeru",
+    "intro": "Ovaj tekst je nacrt politike privatnosti za redizajniranu stranicu i prije objave ga treba pregledati pravna služba MI99.",
+    "sections": [
+      {
+        "title": "Rukovalac podacima",
+        "text": "Mliječna industrija 99 d.o.o., Sarajevska bb, 76250 Gradačac, Bosna i Hercegovina, info@mi99.ba."
+      },
+      {
+        "title": "Koje podatke prikupljamo",
+        "text": "Podatke koje unesete u kontakt i poslovne obrasce (ime, kompanija, e-mail, telefon, država, poruka). Stranica ne koristi kolačiće za praćenje; jezička postavka se pamti isključivo radi prikaza sadržaja."
+      },
+      {
+        "title": "Svrha obrade",
+        "text": "Podatke koristimo isključivo za odgovor na vaš upit i eventualnu poslovnu komunikaciju koju ste zatražili."
+      },
+      {
+        "title": "Čuvanje i prava",
+        "text": "Podatke čuvamo onoliko dugo koliko je potrebno za odgovor na upit. Možete zatražiti uvid, ispravku ili brisanje podataka slanjem e-maila na info@mi99.ba."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Ova stranica je iscurila.",
+    "text": "Stranica koju tražite ne postoji ili je premještena.",
+    "cta": "Nazad na početnu"
+  }
+}

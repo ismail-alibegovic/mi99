@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "siteName": "MI99 – Mliječna industrija 99",
+    "defaultTitle": "MI99 – Naturally good. From the very first sip.",
+    "description": "Mliječna industrija 99 from Gradačac, Bosnia and Herzegovina, makes long-life milk, yoghurts, kefir and sour creams under the Natura and Milkland brands.",
+    "about": "About us – Mliječna industrija 99, Gradačac",
+    "products": "Products – Natura, Milkland and MI99",
+    "production": "Production & quality",
+    "recipes": "Recipes & inspiration",
+    "partners": "Business partnerships – Become our partner",
+    "news": "News",
+    "contact": "Contact",
+    "privacy": "Privacy policy",
+    "brands": "Our brands"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "products": "Products",
+    "production": "Production & quality",
+    "news": "News",
+    "contact": "Contact",
+    "recipes": "Recipes",
+    "partners": "Partnerships",
+    "brands": "Brands",
+    "privacy": "Privacy policy",
+    "allProducts": "All products",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "skip": "Skip to content",
+    "categories": "Categories",
+    "megaIntro": "More than 20 products from our dairy in Gradačac.",
+    "explore": "Explore",
+    "productsInCategory": "{count, plural, one {# product} other {# products}}"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewProduct": "View product",
+    "allProducts": "All products",
+    "back": "Back",
+    "download": "Download",
+    "readMore": "Read more",
+    "illustrative": "Illustrative photograph",
+    "original": "Original MI99 photograph",
+    "proposed": "Proposed new content",
+    "minutes": "{count} min",
+    "servings": "{count, plural, one {# serving} other {# servings}}",
+    "source": "Source",
+    "home": "Home",
+    "undated": "From the company archive",
+    "year": "Year {year}",
+    "share": "Share",
+    "pdf": "PDF"
+  },
+  "hero": {
+    "eyebrow": "Mliječna industrija 99 · Gradačac",
+    "title1": "Naturally good.",
+    "title2": "From the very first sip.",
+    "text": "Dairy from the heart of Bosnia and Herzegovina, made for the moments we share every day.",
+    "ctaProducts": "Explore products",
+    "ctaAbout": "Meet MI99",
+    "badge": "Natura · Milkland",
+    "scroll": "Scroll"
+  },
+  "highlights": {
+    "label": "MI99 in numbers",
+    "founded": "Year the company was founded",
+    "products": "Products in the official range",
+    "brands": "Brands: Natura and Milkland",
+    "markets": "Countries where our products are on shelves",
+    "location": "Made in Gradačac, Bosnia and Herzegovina"
+  },
+  "showcase": {
+    "eyebrow": "Range",
+    "title": "Good for every day.",
+    "text": "From long-life milk to creamy sour cream – choose a category and meet the products.",
+    "cta": "All products in this category",
+    "count": "{count, plural, one {# product} other {# products}}"
+  },
+  "brands": {
+    "eyebrow": "Brands",
+    "title1": "Our brands.",
+    "title2": "Your favourite flavours.",
+    "discover": "Discover {brand}",
+    "range": "{count, plural, one {# product} other {# products}}",
+    "logoNote": "Mark taken from the original packaging"
+  },
+  "nature": {
+    "eyebrow": "From nature to your table",
+    "title": "From nature to your table.",
+    "text": "Every product begins long before the dairy – on the farms of our partner farmers.",
+    "note": "Farm photographs are illustrative and do not show specific MI99 partner farms.",
+    "steps": [
+      {
+        "title": "Partnership with farmers",
+        "text": "According to the company, a serious and systematic approach to buying raw milk has brought together more than 1,500 satisfied partner farmers."
+      },
+      {
+        "title": "Milk collection",
+        "text": "Raw milk arrives at automated reception lines, where quality control begins."
+      },
+      {
+        "title": "Controlled production",
+        "text": "Pasteurisation, UHT sterilisation and fermentation take place under fully sterile, controlled conditions, monitored by our laboratory."
+      },
+      {
+        "title": "Finished dairy products",
+        "text": "From the central warehouse, Natura and Milkland products travel to shelves across Bosnia and Herzegovina and the region."
+      }
+    ]
+  },
+  "productionTeaser": {
+    "eyebrow": "Production & quality",
+    "title1": "Modern production.",
+    "title2": "Committed to quality.",
+    "text": "State-of-the-art equipment, fully sterile conditions and a laboratory that follows every step – that is the standard of our dairy.",
+    "cta": "Discover our production"
+  },
+  "lifestyle": {
+    "eyebrow": "Every day",
+    "title": "For the table we gather around.",
+    "text": "A breakfast that lasts a little longer, Sunday crêpes, pie with cold yoghurt. Our products are there wherever things are shared.",
+    "scenes": [
+      "Family breakfast",
+      "Yoghurt and fresh fruit",
+      "Pie with sour cream",
+      "Milk and homemade bread"
+    ]
+  },
+  "recipes": {
+    "eyebrow": "Recipes & inspiration",
+    "title1": "Small moments.",
+    "title2": "Big flavours.",
+    "text": "Simple recipes with Natura and MI99 products.",
+    "all": "All recipes",
+    "ingredients": "Ingredients",
+    "steps": "Method",
+    "tip": "Tip",
+    "usedProducts": "Products used",
+    "time": "Time",
+    "servingsLabel": "Serves",
+    "difficulty": "Difficulty",
+    "more": "More recipes",
+    "proposedNote": "These recipes are proposed new content for the redesigned site and are not part of MI99's existing official content."
+  },
+  "partners": {
+    "eyebrow": "Business partnerships",
+    "title": "Let's grow together.",
+    "text": "Distribution, retail, HoReCa or private label – let's talk about working together.",
+    "cta": "Become our partner",
+    "ctaSpecs": "Download product specifications",
+    "segments": [
+      {
+        "title": "Distributors",
+        "text": "Every market is served through general importers and distributors."
+      },
+      {
+        "title": "Retail chains",
+        "text": "A long-standing presence on retail shelves in Bosnia and Herzegovina and the region."
+      },
+      {
+        "title": "HoReCa",
+        "text": "Milk, sour creams and yoghurts in packs of up to 1.5 kg for professional kitchens."
+      },
+      {
+        "title": "International partners",
+        "text": "An EU export licence and products present in six regional markets."
+      },
+      {
+        "title": "Private label",
+        "text": "Besides our own brands, our products are also sold under other customers' labels."
+      }
+    ],
+    "capabilitiesTitle": "Capacities",
+    "capabilities": [
+      {
+        "value": "12,000 l/h",
+        "label": "TBA 8 fillers for UHT milk"
+      },
+      {
+        "value": "15,000 l/h",
+        "label": "Raw-milk pasteurisation"
+      },
+      {
+        "value": "4,500 kg/h",
+        "label": "HAMBA cup filling"
+      },
+      {
+        "value": "3,500 kg/h",
+        "label": "AVE bottle filling"
+      }
+    ],
+    "logisticsTitle": "Logistics data at your fingertips",
+    "logisticsText": "Every product page lists the EAN code, pack dimensions and palletisation, plus a downloadable PDF specification.",
+    "formTitle": "Business enquiry",
+    "formText": "Leave your details and our sales team will get in touch."
+  },
+  "news": {
+    "eyebrow": "News",
+    "title": "News & archive.",
+    "text": "Certificates, markets and range – posts based on official company documents.",
+    "all": "All",
+    "latest": "Latest from MI99",
+    "archiveNote": "The current mi99.ba website has no published news. These posts are based exclusively on official MI99 data and documents; dates are shown only where a document states them.",
+    "related": "More posts",
+    "empty": "No posts in this category."
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A dairy from Gradačac. Flavours for the whole region.",
+    "lead": "Mliječna industrija 99 d.o.o. was founded in 2015 through the acquisition of a strategic stake from Zott International GmbH, Mertingen, Germany. The company's core business is the processing and sale of milk and dairy products.",
+    "p1": "The company is based in Gradačac in north-eastern Bosnia and Herzegovina, strategically close to the Croatian border and with good road connections.",
+    "p2": "The company holds certificates for quality and management, production traceability and quality control, as well as an EU licence to export to the European Union – confirming that its products and processes meet the EU's strict regulations.",
+    "missionTitle": "Mission",
+    "mission": "Our mission is a satisfied consumer – together with the satisfaction of everyone involved in bringing our products to customers. Our best reference is a satisfied customer.",
+    "visionTitle": "Vision",
+    "vision": "To become a leader in dairy through continuous investment in innovation and technology, ensuring the premium quality of our Natura and Milkland brands.",
+    "peopleTitle": "People and partner farmers",
+    "employees": "employees",
+    "graduates": "university graduates",
+    "farmers": "partner farmers",
+    "peopleNote": "Figures from the current mi99.ba website (no date given) – to be updated before launch.",
+    "marketsTitle": "Always fresh – across the region",
+    "marketsText": "Deliveries are organised so that customers always have the freshest products available from our central warehouse. Each market is served by general importers and distributors.",
+    "factoryCaption": "The Mliječna industrija 99 plant in Gradačac"
+  },
+  "production": {
+    "eyebrow": "Production & quality",
+    "title1": "Modern production.",
+    "title2": "Committed to quality.",
+    "lead": "Our management places great importance on production quality. We are proud of our state-of-the-art equipment and the latest advances in dairy technology.",
+    "sterileTitle": "Fully sterile conditions",
+    "sterileText": "Following a “fully sterile conditions” standard, milk is processed and packed in fully sterile, controlled conditions. This allows long shelf lives while keeping premium quality.",
+    "areas": [
+      {
+        "title": "Production facilities",
+        "text": "Automated raw-milk reception lines and CIP systems for uncompromising hygiene."
+      },
+      {
+        "title": "Milk processing",
+        "text": "Pasteurisers with 15,000 l/h capacity for raw milk and fermented products, plus a mixing zone."
+      },
+      {
+        "title": "UHT technology",
+        "text": "A UHT steriliser and TBA 8 fillers with 12,000 l/h capacity for long-life milk in Tetra Pak."
+      },
+      {
+        "title": "Laboratory & quality control",
+        "text": "A modern laboratory; every process is monitored from control panels with clearly defined steps and procedures."
+      },
+      {
+        "title": "Automated filling",
+        "text": "AVE bottle filling (3,500 kg/h) and HAMBA cup filling (4,500 kg/h)."
+      },
+      {
+        "title": "Packaging & storage",
+        "text": "A warehouse for UHT milk and packaging, and a cold store for fermented products."
+      }
+    ],
+    "equipmentTitle": "Equipment",
+    "certTitle": "Certificates",
+    "certText": "Documents published on the current mi99.ba website. Both have expired – information on currently valid certificates is available on request.",
+    "issued": "Issued",
+    "validUntil": "Valid until",
+    "expired": "Archive document · expired",
+    "view": "View document",
+    "scope": "Scope",
+    "issuer": "Issuer",
+    "galleryTitle": "Inside our plant",
+    "galleryNote": "Original MI99 photographs from the current website. A new professional photo shoot of the plant is recommended before launch."
+  },
+  "product": {
+    "brand": "Brand",
+    "category": "Category",
+    "size": "Pack size",
+    "fat": "Milk fat",
+    "packaging": "Packaging",
+    "nutrition": "Average nutritional values per 100 g",
+    "energy": "Energy",
+    "fatRow": "Fat",
+    "saturates": "of which saturates",
+    "carbs": "Carbohydrate",
+    "sugars": "of which sugars",
+    "protein": "Protein",
+    "salt": "Salt",
+    "nutritionMissing": "Nutritional values for this pack are being verified and will be published once confirmed.",
+    "details": "Ingredients & storage",
+    "ingredients": "Ingredients",
+    "storage": "Storage",
+    "shelfLife": "Shelf life",
+    "shelfLifeDays": "{days} days",
+    "afterOpening": "After opening",
+    "allergens": "Allergens",
+    "containsMilk": "Contains milk",
+    "specSource": "According to the official specification",
+    "logistics": "Logistics data",
+    "ean": "EAN-13",
+    "primary": "Primary pack",
+    "primaryWeight": "Net / gross weight of primary pack",
+    "primaryDims": "Dimensions H × W × D (mm)",
+    "secondaryUnits": "Units per shipping case",
+    "secondaryWeight": "Net / gross weight of shipping case (kg)",
+    "secondaryDims": "Shipping case dimensions (mm)",
+    "pallet": "Pallet",
+    "palletLayers": "Layers per pallet × cases per layer",
+    "palletUnits": "Primary × secondary packs",
+    "palletWeight": "Net / gross weight incl. pallet (kg)",
+    "palletDims": "Dimensions incl. pallet (mm)",
+    "downloadSpec": "Download specification (PDF)",
+    "variants": "Available packs",
+    "related": "You may also like",
+    "inquiryTitle": "Interested in this product for your business?",
+    "inquiryText": "For distribution, retail and HoReCa, send an enquiry to our sales team.",
+    "inquiryCta": "Send a business enquiry",
+    "highlights": "Why we love it",
+    "fromSource": "Product description from the original MI99 website",
+    "bullets": {
+      "freshMilk": "Made from fresh cow's milk of extra quality",
+      "technology": "Produced with state-of-the-art technology and processes",
+      "connoisseursMilk": "For true connoisseurs of quality milk",
+      "connoisseursYoghurt": "For true connoisseurs of quality yoghurt"
+    },
+    "packshotNote": "Original MI99 packaging photograph, digitally sharpened and cut out.",
+    "designVariant": "Pack design {n}",
+    "count": "{count, plural, one {# product} other {# products}}",
+    "filterAll": "All",
+    "filterBrand": "Brand",
+    "filterCategory": "Category",
+    "noResults": "No products match the selected filters.",
+    "reset": "Reset filters",
+    "catalogTitle": "Our products.",
+    "catalogText": "More than 20 products under the Natura, Milkland and MI99 brands – long-life milk without preservatives, with nutrition and logistics data for every pack."
+  },
+  "form": {
+    "company": "Company name",
+    "contactPerson": "Contact person",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "country": "Country",
+    "type": "Type of cooperation",
+    "subject": "Subject",
+    "message": "Message",
+    "consent": "I agree that MI99 may process my data to respond to this enquiry.",
+    "submit": "Send enquiry",
+    "sending": "Sending…",
+    "required": "Required field",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "tooShort": "Your message should be at least 10 characters",
+    "consentRequired": "Your consent is required",
+    "select": "Select…",
+    "types": {
+      "distributor": "Distribution",
+      "retail": "Retail chain",
+      "horeca": "HoReCa",
+      "international": "International partnership",
+      "privateLabel": "Private label",
+      "other": "Other"
+    },
+    "subjects": {
+      "general": "General enquiry",
+      "products": "Products",
+      "business": "Business partnership",
+      "media": "Media"
+    },
+    "demoTitle": "Demonstration form",
+    "demoText": "This form validates your data and submits it to a server route, but is not yet connected to an email service. Until then, please write to info@mi99.ba.",
+    "successTitle": "Thank you!",
+    "successDemo": "Your enquiry was valid and received in demonstration mode – it has not been forwarded by email. For a real enquiry, please write to info@mi99.ba.",
+    "successLive": "Your enquiry has been sent. We will get back to you shortly.",
+    "error": "Sending failed. Please try again or write to info@mi99.ba.",
+    "again": "Send another enquiry",
+    "product": "Product (optional)"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk.",
+    "text": "Questions about products, partnerships or the company – we are here.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Social media",
+    "mapTitle": "Our plant in Gradačac",
+    "openMap": "Open in OpenStreetMap",
+    "formTitle": "Send a message",
+    "businessTitle": "Business enquiry?",
+    "businessText": "For distribution, retail chains, HoReCa and private label, please use the dedicated form.",
+    "businessCta": "Business enquiry form"
+  },
+  "footer": {
+    "tagline": "Naturally good. From the very first sip.",
+    "navigation": "Navigation",
+    "products": "Products",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "concept": "Redesign concept – demonstration",
+    "follow": "Follow us"
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Draft for legal review",
+    "intro": "This is a draft privacy policy for the redesigned website and must be reviewed by MI99's legal team before publication.",
+    "sections": [
+      {
+        "title": "Data controller",
+        "text": "Mliječna industrija 99 d.o.o., Sarajevska bb, 76250 Gradačac, Bosnia and Herzegovina, info@mi99.ba."
+      },
+      {
+        "title": "What we collect",
+        "text": "The data you enter in contact and business forms (name, company, email, phone, country, message). The site uses no tracking cookies; the language preference is stored only to display content."
+      },
+      {
+        "title": "Purpose",
+        "text": "We use your data solely to respond to your enquiry and for any business communication you have requested."
+      },
+      {
+        "title": "Retention and your rights",
+        "text": "We keep data only as long as needed to answer your enquiry. You can request access, correction or deletion by writing to info@mi99.ba."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "This page has spilled.",
+    "text": "The page you are looking for does not exist or has moved.",
+    "cta": "Back to home"
+  }
+}
