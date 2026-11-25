@@ -32,6 +32,8 @@ function isActive(pathname: string, href: string) {
   return pathname === href || pathname.startsWith(href + "/");
 }
 
+const LANG_NAMES: Record<string, string> = { bs: "Bosanski", en: "English", de: "Deutsch" };
+
 export function LanguageSwitcher({ inverted, className }: { inverted?: boolean; className?: string }) {
   const locale = useLocale();
   const pathname = usePathname();
@@ -44,6 +46,7 @@ export function LanguageSwitcher({ inverted, className }: { inverted?: boolean; 
           href={pathname}
           locale={l}
           hrefLang={l}
+          aria-label={LANG_NAMES[l]}
           aria-current={l === locale ? "true" : undefined}
           className={cn(
             "rounded-full px-2.5 py-1.5 uppercase tracking-[0.08em] transition-colors",
@@ -105,13 +108,29 @@ export function HeaderClient({ mega, brands }: Props) {
     };
   }, [mobileOpen]);
 
+  // Ref mirrors the latest open state: hover and click can fire before a re-render.
+  const openRef = useRef(false);
+  const openedAt = useRef(0);
+  useEffect(() => {
+    openRef.current = megaOpen;
+  }, [megaOpen]);
+  const setOpen = (v: boolean) => {
+    if (v && !openRef.current) openedAt.current = Date.now();
+    openRef.current = v;
+    setMegaOpen(v);
+  };
   const openMega = () => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
-    setMegaOpen(true);
+    setOpen(true);
+  };
+  const toggleMega = () => {
+    // A click right after a hover-open keeps the menu open instead of closing it.
+    if (openRef.current && Date.now() - openedAt.current < 500) return;
+    setOpen(!openRef.current);
   };
   const scheduleClose = () => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
-    closeTimer.current = setTimeout(() => setMegaOpen(false), 160);
+    closeTimer.current = setTimeout(() => setOpen(false), 160);
   };
 
   const compact = scrolled || megaOpen;
@@ -149,7 +168,7 @@ export function HeaderClient({ mega, brands }: Props) {
                     type="button"
                     aria-expanded={megaOpen}
                     aria-controls="mega-menu"
-                    onClick={() => setMegaOpen((v) => !v)}
+                    onClick={toggleMega}
                     className={cn(
                       "flex items-center gap-1.5 rounded-full px-4 py-2 font-display text-[0.92rem] font-semibold tracking-[-0.01em] transition-colors",
                       isActive(pathname, item.href) || megaOpen ? "text-forest-900" : "text-ink-700 hover:text-forest-900",

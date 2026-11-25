@@ -15,6 +15,7 @@ const path = require("path");
 
 const BASE = process.env.BASE_URL || "http://localhost:3000";
 const SHOTS = process.argv.includes("--screenshots");
+const ONLY = process.argv.includes("--interactions-only");
 const OUT = path.join(__dirname, "..", "qa-screenshots");
 const WIDTHS = [390, 768, 1024, 1440, 1920];
 
@@ -65,7 +66,7 @@ async function scrollThrough(page) {
 
   // 1. Responsive sweep
   console.log("Responsive sweep");
-  for (const width of WIDTHS) {
+  for (const width of ONLY ? [] : WIDTHS) {
     const ctx = await browser.newContext({ viewport: { width, height: 900 } });
     const page = await ctx.newPage();
     const errs = [];
@@ -95,7 +96,7 @@ async function scrollThrough(page) {
 
   // 2. Link crawl
   console.log("Link crawl");
-  {
+  if (!ONLY) {
     const ctx = await browser.newContext();
     const page = await ctx.newPage();
     const seen = new Set();
@@ -140,7 +141,7 @@ async function scrollThrough(page) {
     await page.getByRole("button", { name: "Otvori meni" }).click();
     const dialog = page.getByRole("dialog");
     await dialog.waitFor();
-    await dialog.getByRole("link", { name: "EN", exact: true }).click();
+    await dialog.getByRole("link", { name: "English", exact: true }).click();
     await page.waitForURL("**/en/proizvodi");
     (await page.locator("html").getAttribute("lang")) === "en" ? ok("mobile menu → EN switch keeps page") : fail("language switch failed");
     await page.getByRole("button", { name: "Open menu" }).click();
@@ -168,7 +169,7 @@ async function scrollThrough(page) {
     await page.goto(BASE + "/bs/proizvodi", { waitUntil: "load" });
     await page.getByRole("button", { name: "Milkland", exact: true }).click();
     await page.waitForTimeout(700);
-    const count = await page.locator("main ul li a[href*='/proizvodi/']").count();
+    const count = await page.locator("main ul li a[href*='/proizvodi/']:not([href*='/kategorija/'])").count();
     const url = page.url();
     count === 4 && url.includes("brend=milkland") ? ok("brand filter (4 Milkland products, URL synced)") : fail(`brand filter: ${count} cards, url ${url}`);
     await page.getByRole("button", { name: "Kefir", exact: true }).click();

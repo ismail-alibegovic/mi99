@@ -118,7 +118,7 @@ export default async function ContactPage({ params }: PageProps<"/[locale]/konta
             <div className="rounded-[28px] bg-forest-900 p-8 text-cream-50 lg:sticky lg:top-28">
               <h2 className="display-sm">{t("contact.businessTitle")}</h2>
               <p className="mt-3 text-cream-50/75">{t("contact.businessText")}</p>
-              <ButtonLink href={`${routes.partners}#upit`} variant="light" className="mt-6">
+              <ButtonLink href={`${routes.partners}#upit`} variant="light" className="mt-6 h-auto! min-h-12 whitespace-normal! py-3 text-left">
                 {t("contact.businessCta")}
               </ButtonLink>
             </div>
